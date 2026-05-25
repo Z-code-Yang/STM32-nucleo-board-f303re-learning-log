@@ -1,4 +1,4 @@
-/*STM32 bare metal programming for control step motor from Arduino Kit*/
+/*STM32 (stm32f303xe.h) bare metal programming for control step motor from Arduino Kit */
 //using the half-step sequence
 /*1000  
 1100  
